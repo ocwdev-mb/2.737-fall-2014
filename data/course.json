@@ -1,0 +1,60 @@
+{
+  "term": "Fall",
+  "year": "2014",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Digital Systems"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Dynamics and Control"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Electronics"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Mechanical Design"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Robotics and Control Systems"
+    ]
+  ],
+  "legacy_uid": "1ded8d33-8c23-4653-dad0-4ea4f119ef0d",
+  "instructors": {
+    "content": [
+      "5e7f6d6b-f363-cf53-9056-bdb2b67e4f67"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "093876df-e125-e9c1-1146-260d12b0ec0a",
+    "website": "2-737-mechatronics-fall-2014"
+  },
+  "course_title": "Mechatronics",
+  "course_description": "This course is an introduction to designing mechatronic systems, which require integration of the mechanical and electrical engineering disciplines within a unified framework. There are significant laboratory-based design experiences. Topics covered in the course include: Low-level interfacing of software with hardware; use of high-level graphical programming tools to implement real-time computation tasks; digital logic; analog interfacing and power amplifiers; measurement and sensing; electromagnetic and optical transducers; control of mechatronic systems.\n",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "2.737",
+  "course_image_thumbnail": {
+    "content": "d57f0d52-3405-3a02-e59d-19ff65c1c305",
+    "website": "2-737-mechatronics-fall-2014"
+  },
+  "learning_resource_types": [],
+  "site_uid": "96d176e5-4cd4-4c4b-bec0-0a4845d91fa2",
+  "site_short_id": "2.737-fall-2014",
+  "title": "Course Metadata"
+}
